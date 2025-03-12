@@ -1,4 +1,4 @@
-# este progra é apenas de uso educacional, para fins educacionais.
+# este programa é apenas de uso educacional, para fins educacionais.
 
 # Programa de Contagem de Espécies de Sapos
 
